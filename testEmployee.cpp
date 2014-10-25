@@ -66,13 +66,12 @@ int main()
 }
 
 /*
-		SAMPLE RUN
+		SAMPLE RUN.
 	
 	
 Name		    ID Number	Department	     Position
 ================================================================
 Susan Meyers	 47899		Accounting	     Vice President
 Mark Jones	     39119		IT		         Programmer
-Joy Rogers	     81774		Manufacturing	 Engineer
-
+Joy Rogers	     81774		Manufacturing	 Engineer 
 */
